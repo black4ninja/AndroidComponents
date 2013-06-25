@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SampleSyncAdapter.iml" filepath="$PROJECT_DIR$/SampleSyncAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests/src/com/example/android/android.iml" filepath="$PROJECT_DIR$/tests/src/com/example/android/android.iml" />
+    </modules>
+  </component>
+</project>
+
